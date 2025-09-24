@@ -29,8 +29,8 @@ I'm a fast learner, curious about new technologies and programming workflows, an
 ##  GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErgiBraholli&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErgiBraholli&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkoPapathimiu&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoPapathimiu&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
